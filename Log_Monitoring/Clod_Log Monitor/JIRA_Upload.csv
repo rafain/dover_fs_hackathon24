@@ -1,0 +1,4 @@
+,device_id,error_type,Priority,datetime,Status,total_occurence
+0,jkagda_dmjgc_328964_sdjkfgsgf,Contactless Reader Critical Faliure,0,2024-02-03 22:41:01.474535,Pending,1
+1,jkagda_dmjgc_328964_sdjkfgsgf,Open Chip Reader Critical Faliure,0,2024-02-03 22:41:24.352755,Pending,2
+2,jkagda_dmjgc_328964_sdjkfgsgf,Time Reading Backwards,3,2024-02-03 22:45:53.772299,Pending,3137

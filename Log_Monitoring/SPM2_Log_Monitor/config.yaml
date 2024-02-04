@@ -1,0 +1,4 @@
+---
+device_id: "jkagda_dmjgc_328964_sdjkfgsgf"
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=dfslogs;AccountKey=MWqOV2+CT6h6su4WPUzJUuMccfxxEtc7lXa50p/TXPYs/ZhrX7sAc15AwzVs/yC/2KTEOrKO+18Q+AStu8XmHA==;EndpointSuffix=core.windows.net"
+error_container_name: "criticalfaliures"
